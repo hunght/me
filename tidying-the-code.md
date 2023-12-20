@@ -1,3 +1,5 @@
+# Tidy First? A Personal Exercise in Empirical Software Design 
+
 In his book "Tidy First? A Personal Exercise in Empirical Software Design," Kent Beck explores the concept of "tidying" as a way to improve software code through small, incremental changes. Here are some of the most helpful tidying techniques from the book:
 
 **1. Extract Function:**
